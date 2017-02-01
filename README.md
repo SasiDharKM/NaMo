@@ -1,5 +1,5 @@
-# Make 2048
-My version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
+# Make NaMo
+My game on the lines of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
 
 
